@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e020a36e5967487587cc23cfc67c0ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerHopClip: {fileID: 8300000, guid: ffa614bcaac464048854941b3e276911, type: 3}
+  - playerDieClip: {fileID: 8300000, guid: a4c297cacb4894a6f83cc9f4dbb07596, type: 3}
+  - enemyHopClip: {fileID: 8300000, guid: a8b8a70f7299241afaa54c5232c460a1, type: 3}
+  - bonchHitClip: {fileID: 8300000, guid: 7925e4f746965490cb055a72dec1b792, type: 3}
+  - coinClip: {fileID: 8300000, guid: bda389b1a65e3644c975cfd1e44efe65, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
